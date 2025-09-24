@@ -1,3 +1,6 @@
+#install Opencv python , tensorflow before running the code
+
+
 import cv2
 import mediapipe as mp
 import pygame
